@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning how to code
+- 🔭 I’m currently learning how to code!
 - 🌱 3rd-year Psychology BA student at the University of Texas at Austin
 - 📫 Email: aprylsalomaa@utexas.edu
 - 😄 Pronouns: she/her/hers
