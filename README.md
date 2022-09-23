@@ -16,4 +16,8 @@
 - 📫 Email: aprylsalomaa@utexas.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: ...
+
+[![Apryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=apryls)](https://github.com/apryls/github-readme-stats)
+
+
 -->
